@@ -10,5 +10,6 @@ function App() {
   return <WeatherApp />;
 }
 
+// render weatherApp.js
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
